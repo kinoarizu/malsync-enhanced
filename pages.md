@@ -195,7 +195,7 @@
     <td>:x:</td>
     <td>:heavy_check_mark:</td>
   </tr><tr>
-    <td><a href="https://anime-sama.eu"><img src="https://favicon.malsync.moe/?domain=https://anime-sama.eu"> AnimeSama</a></td>
+    <td><a href="https://anime-sama.tv"><img src="https://favicon.malsync.moe/?domain=https://anime-sama.tv"> AnimeSama</a></td>
     <td>French</td>
     <td>:x:</td>
     <td>:x:</td>
